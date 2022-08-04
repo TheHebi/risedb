@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS rise_db;
+CREATE DATABASE rise_db;

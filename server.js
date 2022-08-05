@@ -4,9 +4,6 @@ const sequelize = require("./config/connection");
 // Sets up the Express App
 // =============================================================
 const app = express();
-app.use(timeout('20s'))
-app.use(compression())
-app.use(haltOnTimedout)
 const PORT = process.env.PORT || 3000;
 const allRoutes = require('./controllers');
 

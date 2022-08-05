@@ -10,10 +10,10 @@ Monster.init(
       allowNull: false,
     },
     description: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
     },
     img: {
-      type: DataTypes.STRING,
+      type: DataTypes.TEXT,
     },
   },
   {

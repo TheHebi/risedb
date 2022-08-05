@@ -2,6 +2,7 @@ const { Part } = require("../models");
 
 const partData = [
   {
+    MonsterId:1,
     name: "Aknosom Scale+",
     targetReward: 21,
     captureReward: 21,

@@ -23,11 +23,7 @@ Part.init(
     },
     droppedMaterial: {
       type: DataTypes.INTEGER,
-    },
-    rank: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
+    }
   },
   {
     sequelize,

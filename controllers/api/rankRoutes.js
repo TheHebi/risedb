@@ -4,10 +4,10 @@ const db = require("../../models");
 
 router.get("/", async(req,res)=>{
     try{
-        const parts = await db.Part.findAll({
+        const ranks = await db.Rank.findAll({
             attributes: { exclude: [`createdAt`, `updatedAt`] },
           });
-        res.status(200).json(parts);
+        res.status(200).json(ranks);
     }catch(err){
         console.log(err)
         res.status(500).json(err)
@@ -16,13 +16,9 @@ router.get("/", async(req,res)=>{
 
 router.get("/:id", async(req,res)=>{
     try{
-        const monsters = await db.Part.findOne({
+        const monsters = await db.Rank.findOne({
             where:{id:req.params.id},
             attributes: { exclude: [`createdAt`, `updatedAt`] },
-            include:{
-                model: db.Rank,
-                attributes:{exclude:['createdAt','updatedAt', 'id']}
-            }
           });
         res.status(200).json(monsters);
     }catch(err){

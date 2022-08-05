@@ -1,5 +1,6 @@
 const seedMonsters = require('./monsterSeeds')
 const seedParts = require('./partSeeds')
+const seedRanks = require('./rankSeeds')
 const sequelize = require('../config/connection');
 
 const seedAll = async () => {
@@ -8,6 +9,9 @@ const seedAll = async () => {
 
     await seedMonsters();
     console.log('\n----- MONSTERS SEEDED -----\n');
+
+    await seedRanks();
+    console.log('\n----- RANKS SEEDED -----\n');
 
     await seedParts();
     console.log('\n----- PARTS SEEDED -----\n');

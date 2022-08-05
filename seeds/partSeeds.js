@@ -733,7 +733,507 @@ const partData = [
   },
   {
     MonsterId:4,
-    RankId:12,
+    RankId:2,
+    name: "Apex Beastclaw",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:4,
+    RankId:2,
+    name: "Arzuros Carapace",
+    targetReward: 36,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 28,
+    droppedMaterial:60
+  },
+  {
+    MonsterId:4,
+    RankId:2,
+    name: "Arzuros Pelt+",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 47,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:4,
+    RankId:2,
+    name: "Arzuros Pelt+",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 47,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:4,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 47,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:4,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 6,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Apex Curlhorn",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 100,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Carapace",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 29,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Ridge+",
+    targetReward: 25,
+    captureReward: 0,
+    brokenPartReward: 50,
+    carve: 32,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Fang",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Tailcase",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Medulla",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 4,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 6,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:5,
+    RankId:2,
+    name: "Diablos Marrow",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Apex Bubblefoam",
+    targetReward: 6,
+    captureReward: 0,
+    brokenPartReward: 31,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Scale+",
+    targetReward: 38,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 41,
+    droppedMaterial:58
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Purplefur+",
+    targetReward: 29,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 28,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Claw+",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Tail",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Plate",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Water Orb",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 1,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:6,
+    RankId:2,
+    name: "Mizutsune Fin+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Apex Blaze Sac",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 35,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Scale+",
+    targetReward: 35,
+    captureReward: 0,
+    brokenPartReward: 32,
+    carve: 36,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Carapace",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 32,
+    carve: 36,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Wing",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 19,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rath Medulla",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Plate",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Ruby",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 1,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rath Wingtalon+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:19
+  },
+  {
+    MonsterId:7,
+    RankId:2,
+    name: "Rathalos Tail",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 65,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Apex Venom Spike",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 25,
+    carve: 6,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathian Scale+",
+    targetReward: 31,
+    captureReward: 0,
+    brokenPartReward: 58,
+    carve: 41,
+    droppedMaterial:58
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathian Carapace",
+    targetReward: 23,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 32,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathian Webbing",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Inferno Sac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathian Plate",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathian Ruby",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 1,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rath Wingtalon+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:8,
+    RankId:2,
+    name: "Rathalos Medulla",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Apex Shockshell",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 9,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Carapace",
+    targetReward: 39,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 36,
+    droppedMaterial:43
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Electrofur",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 29,
+    droppedMaterial:38
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Tail",
+    targetReward: 4,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Fulgurbug",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Plate",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Jasper",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 5,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Horn+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:9,
+    RankId:2,
+    name: "Zinogre Claw+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 22,
+    droppedMaterial:12
+  },
+  {
+    MonsterId:10,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

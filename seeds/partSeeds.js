@@ -63,16 +63,6 @@ const partData = [
   },
   {
     MonsterId:1,
-    RankId:1,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:50
-  },
-  {
-    MonsterId:1,
     RankId:2,
     name: "Aknosom Scale+",
     targetReward: 21,
@@ -140,26 +130,6 @@ const partData = [
     brokenPartReward: 100,
     carve: 0,
     droppedMaterial:0
-  },
-  {
-    MonsterId:1,
-    RankId:2,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:30
-  },
-  {
-    MonsterId:1,
-    RankId:2,
-    name: "Large Wyver Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:20
   },
   {
     MonsterId:1,
@@ -240,26 +210,6 @@ const partData = [
     brokenPartReward: 0,
     carve: 5,
     droppedMaterial:0
-  },
-  {
-    MonsterId:1,
-    RankId:3,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:20
-  },
-  {
-    MonsterId:1,
-    RankId:3,
-    name: "Large Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:30
   },
   {
     MonsterId:1,
@@ -353,16 +303,6 @@ const partData = [
   },
   {
     MonsterId:2,
-    RankId:1,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:50
-  },
-  {
-    MonsterId:2,
     RankId:2,
     name: "Almudron Scale+",
     targetReward: 17,
@@ -450,26 +390,6 @@ const partData = [
     brokenPartReward: 0,
     carve: 80,
     droppedMaterial:0
-  },
-  {
-    MonsterId:2,
-    RankId:2,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:10
-  },
-  {
-    MonsterId:2,
-    RankId:2,
-    name: "Large WWyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:40
   },
   {
     MonsterId:2,
@@ -564,27 +484,7 @@ const partData = [
   {
     MonsterId:2,
     RankId:3,
-    name: "Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:5
-  },
-  {
-    MonsterId:2,
-    RankId:3,
-    name: "Large Wyvern Tear",
-    targetReward: 0,
-    captureReward: 0,
-    brokenPartReward: 0,
-    carve: 0,
-    droppedMaterial:45
-  },
-  {
-    MonsterId:2,
-    RankId:3,
-    name: "Afflictged Claw",
+    name: "Afflicted Claw",
     targetReward: 0,
     captureReward: 0,
     brokenPartReward: 20,
@@ -594,6 +494,246 @@ const partData = [
   {
     MonsterId:3,
     RankId:1,
+    name: "Anjanath Pelt",
+    targetReward: 20,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Anjanath Scale",
+    targetReward: 35,
+    captureReward: 31,
+    brokenPartReward: 60,
+    carve: 31,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Anjanath Nosebone",
+    targetReward: 19,
+    captureReward: 0,
+    brokenPartReward: 35,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Anjanath Tail",
+    targetReward: 9,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Anjanath Plate",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Flame Sac",
+    targetReward: 15,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:1,
+    name: "Anjanath Fang",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 62,
+    carve: 23,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Pelt+",
+    targetReward: 20,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Scale+",
+    targetReward: 34,
+    captureReward: 31,
+    brokenPartReward: 60,
+    carve: 30,
+    droppedMaterial:36
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Nosebone+",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Tail",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 65,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Plate",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 7,
+    carve: 4,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Inferno Sac",
+    targetReward: 15,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:2,
+    name: "Anjanath Fang+",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 60,
+    carve: 22,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Fur",
+    targetReward: 20,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Shard",
+    targetReward: 34,
+    captureReward: 31,
+    brokenPartReward: 60,
+    carve: 30,
+    droppedMaterial:36
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Heavy Anjanath Nosebone",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 32,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Lash",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Gem",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 6,
+    carve: 4,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Mantle",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 2,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Conflagrant Sac",
+    targetReward: 15,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Anjanath Hardfang",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 60,
+    carve: 21,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:3,
+    RankId:3,
+    name: "Afflicted Scale",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:4,
+    RankId:12,
     name: "",
     targetReward: 0,
     captureReward: 0,

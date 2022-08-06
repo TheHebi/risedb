@@ -2943,6 +2943,176 @@ const partData = [
   },
   {
     MonsterId:20,
+    RankId:2,
+    name: "Gleaming Shell",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 28,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Shimmering Scale",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 77,
+    carve: 36,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Valstrax Claw+",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 10,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Valstrax Spineshell",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Valstrax Tail",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Crimson Liquid",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Red Dragon Orb",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:20,
+    RankId:2,
+    name: "Rouge Spikewing",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 90,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Glittering Shell",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 28,
+    droppedMaterial:24
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Shimmering Shard",
+    targetReward: 24,
+    captureReward: 0,
+    brokenPartReward: 77,
+    carve: 36,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Valstrax Talon",
+    targetReward: 19,
+    captureReward: 0,
+    brokenPartReward: 10,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Valstrax Spineshell+",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Valstrax Helixtail",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Seething Crimson Liquid",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Red Dragon Orb",
+    targetReward: 4,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Red Dragonsphire",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:20,
+    RankId:3,
+    name: "Rouge Lancewing+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 90,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:21,
     RankId:1,
     name: "",
     targetReward: 0,

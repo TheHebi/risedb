@@ -2673,6 +2673,106 @@ const partData = [
   },
   {
     MonsterId:18,
+    RankId:3,
+    name: "Orangaten Fur+",
+    targetReward: 19,
+    captureReward: 21,
+    brokenPartReward: 15,
+    carve: 49,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Orangaten Feather+",
+    targetReward: 28,
+    captureReward: 34,
+    brokenPartReward: 70,
+    carve: 32,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Orangaten Talon",
+    targetReward: 20,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Orangaten Horn+",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 6,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Beast Gem",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 5,
+    captureReward: 6,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Orangaten Tailcase+",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Solid Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:3,
+    name: "Afflicted Shell",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
     RankId:1,
     name: "",
     targetReward: 0,

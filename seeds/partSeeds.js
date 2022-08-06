@@ -2303,6 +2303,156 @@ const partData = [
   },
   {
     MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Scale+",
+    targetReward: 18,
+    captureReward: 14,
+    brokenPartReward: 27,
+    carve: 39,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Carapace",
+    targetReward: 31,
+    captureReward: 18,
+    brokenPartReward: 69,
+    carve: 26,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Talon",
+    targetReward: 23,
+    captureReward: 24,
+    brokenPartReward: 35,
+    carve: 19,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Fuse",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Wing",
+    targetReward: 12,
+    captureReward: 29,
+    brokenPartReward: 65,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:16,
+    RankId:2,
+    name: "Bazelgeuse Tail",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Shard",
+    targetReward: 17,
+    captureReward: 13,
+    brokenPartReward: 22,
+    carve: 37,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Cortex",
+    targetReward: 29,
+    captureReward: 17,
+    brokenPartReward: 69,
+    carve: 25,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Hardclaw",
+    targetReward: 22,
+    captureReward: 23,
+    brokenPartReward: 35,
+    carve: 19,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Glandflux",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Fellwing",
+    targetReward: 12,
+    captureReward: 27,
+    brokenPartReward: 65,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Gem",
+    targetReward: 4,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Mantle",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:16,
+    RankId:3,
+    name: "Bazelgeuse Flail",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
     RankId:1,
     name: "",
     targetReward: 0,

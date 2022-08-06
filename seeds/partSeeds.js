@@ -1394,6 +1394,86 @@ const partData = [
   {
     MonsterId:11,
     RankId:3,
+    name: "Astalos Shard",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 27,
+    carve: 32,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Heavy Astalos Shell",
+    targetReward: 28,
+    captureReward: 30,
+    brokenPartReward: 70,
+    carve: 25,
+    droppedMaterial:19
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Astalos Wingmembrane",
+    targetReward: 19,
+    captureReward: 27,
+    brokenPartReward: 30,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Boltscale",
+    targetReward: 12,
+    captureReward: 12,
+    brokenPartReward: 17,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Heavy Astalos Crest+",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Astalos Scissortailblade",
+    targetReward: 7,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Astalos Mantle",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:11,
+    RankId:3,
+    name: "Astalos Wingripper",
+    targetReward: 0,
+    captureReward: 18,
+    brokenPartReward: 50,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:12,
+    RankId:3,
     name: "",
     targetReward: 0,
     captureReward: 0,

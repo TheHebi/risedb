@@ -3483,6 +3483,66 @@ const partData = [
   },
   {
     MonsterId:24,
+    RankId:3,
+    name: "Rajang Apoplexy",
+    targetReward: 20,
+    captureReward: 33,
+    brokenPartReward: 20,
+    carve: 37,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:24,
+    RankId:3,
+    name: "Rajang Hardclaw",
+    targetReward: 26,
+    captureReward: 27,
+    brokenPartReward: 100,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:24,
+    RankId:3,
+    name: "Rajang Hardfang",
+    targetReward: 35,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 28,
+    droppedMaterial:55
+  },
+  {
+    MonsterId:24,
+    RankId:3,
+    name: "Gold Rajang Pelt+",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 12,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:24,
+    RankId:3,
+    name: "Rajang Heart",
+    targetReward: 5,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:24,
+    RankId:3,
+    name: "Ghoulish Gold Gorer",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:25,
     RankId:1,
     name: "",
     targetReward: 0,

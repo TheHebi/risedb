@@ -3184,6 +3184,236 @@ const partData = [
   {
     MonsterId:22,
     RankId:1,
+    name: "Diablos Shell",
+    targetReward: 16,
+    captureReward: 28,
+    brokenPartReward: 0,
+    carve: 40,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Diablos Ridge",
+    targetReward: 33,
+    captureReward: 25,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Diablos Fang",
+    targetReward: 25,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Diablos Tailcase",
+    targetReward: 7,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Dash Extract",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Diablos Marrow",
+    targetReward: 7,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:1,
+    name: "Twisted Horn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Carapace",
+    targetReward: 18,
+    captureReward: 29,
+    brokenPartReward: 0,
+    carve: 40,
+    droppedMaterial:24
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Ridge+",
+    targetReward: 35,
+    captureReward: 23,
+    brokenPartReward: 50,
+    carve: 33,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Fang",
+    targetReward: 13,
+    captureReward: 11,
+    brokenPartReward: 0,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Tailcase",
+    targetReward: 5,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Dash Extract",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Marrow",
+    targetReward: 10,
+    captureReward: 13,
+    brokenPartReward: 30,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Diablos Medulla",
+    targetReward: 7,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:22,
+    RankId:2,
+    name: "Majestic Horn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Diablos Cortex",
+    targetReward: 24,
+    captureReward: 40,
+    brokenPartReward: 0,
+    carve: 39,
+    droppedMaterial:24
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Diablos Chine",
+    targetReward: 42,
+    captureReward: 33,
+    brokenPartReward: 80,
+    carve: 48,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Diablos Tailcase+",
+    targetReward: 10,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Dash Extract",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Diablos Medulla",
+    targetReward: 12,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:22,
+    RankId:3,
+    name: "Twisted Stouthorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:23,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

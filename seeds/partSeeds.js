@@ -3703,6 +3703,76 @@ const partData = [
   },
   {
     MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Cortex",
+    targetReward: 19,
+    captureReward: 40,
+    brokenPartReward: 32,
+    carve: 26,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Shard",
+    targetReward: 33,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 38,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Shredder",
+    targetReward: 33,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 38,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Eclipse",
+    targetReward: 12,
+    captureReward: 26,
+    brokenPartReward: 75,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Tail",
+    targetReward: 7,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Mantle",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:27,
+    RankId:3,
+    name: "Gore Magala Sensor",
+    targetReward: 0,
+    captureReward: 22,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -3413,6 +3413,76 @@ const partData = [
   },
   {
     MonsterId:23,
+    RankId:3,
+    name: "Espinas Shard",
+    targetReward: 21,
+    captureReward: 27,
+    brokenPartReward: 40,
+    carve: 41,
+    droppedMaterial:28
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Cortex",
+    targetReward: 35,
+    captureReward: 37,
+    brokenPartReward: 12,
+    carve: 31,
+    droppedMaterial:28
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Toxic Blood",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 21,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Lash",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Surspike",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 5,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Mantle",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:23,
+    RankId:3,
+    name: "Espinas Hardhorn",
+    targetReward: 0,
+    captureReward: 21,
+    brokenPartReward: 85,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:24,
     RankId:1,
     name: "",
     targetReward: 0,

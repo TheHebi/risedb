@@ -1234,6 +1234,166 @@ const partData = [
   {
     MonsterId:10,
     RankId:1,
+    name: "Arzuros Shell",
+    targetReward: 14,
+    captureReward: 39,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:10,
+    RankId:1,
+    name: "Arzuros Pelt",
+    targetReward: 38,
+    captureReward: 17,
+    brokenPartReward: 20,
+    carve: 55,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:10,
+    RankId:1,
+    name: "Arzuros Brace",
+    targetReward: 18,
+    captureReward: 24,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:10,
+    RankId:1,
+    name: "Jumbo Bone",
+    targetReward: 16,
+    captureReward: 20,
+    brokenPartReward: 0,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:10,
+    RankId:2,
+    name: "Arzuros Carapace",
+    targetReward: 14,
+    captureReward: 37,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:10,
+    RankId:2,
+    name: "Arzuros Pelt+",
+    targetReward: 36,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 52,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:10,
+    RankId:2,
+    name: "Arzuros Brace+",
+    targetReward: 21,
+    captureReward: 22,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:10,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 14,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:10,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Arzuros Cortex",
+    targetReward: 14,
+    captureReward: 36,
+    brokenPartReward: 0,
+    carve: 29,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Arzuros Fur",
+    targetReward: 36,
+    captureReward: 15,
+    brokenPartReward: 20,
+    carve: 49,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Arzuros Allbrace",
+    targetReward: 22,
+    captureReward: 22,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 15,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Beast Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:10,
+    RankId:3,
+    name: "Afflicted Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:11,
+    RankId:3,
     name: "",
     targetReward: 0,
     captureReward: 0,

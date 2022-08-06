@@ -2773,6 +2773,176 @@ const partData = [
   },
   {
     MonsterId:19,
+    RankId:2,
+    name: "Chameleos Hide+",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 36,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Chameleos Claw+",
+    targetReward: 28,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 29,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Chameleos Wing",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Chameleos Tail",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Chameleos Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Fucium Ore",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Chameleos Spike",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:2,
+    name: "Elder Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chamelos Finehide",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 36,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chameleos Hardclaw",
+    targetReward: 31,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 28,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chameleos Fellwing",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chameleos Lash",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chameleos Gem",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Large Elder Dragon Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Chameleos Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Pure Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:19,
+    RankId:3,
+    name: "Ultimas Crystal",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:20,
     RankId:1,
     name: "",
     targetReward: 0,

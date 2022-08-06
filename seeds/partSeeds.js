@@ -3113,6 +3113,76 @@ const partData = [
   },
   {
     MonsterId:21,
+    RankId:3,
+    name: "Hermitaur Cortex",
+    targetReward: 32,
+    captureReward: 45,
+    brokenPartReward: 0,
+    carve: 45,
+    droppedMaterial:80
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Hermitaur Hardclaw",
+    targetReward: 43,
+    captureReward: 22,
+    brokenPartReward: 70,
+    carve: 33,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Monster Hardbone",
+    targetReward: 15,
+    captureReward: 8,
+    brokenPartReward: 10,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Fine Black Pearl",
+    targetReward: 10,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Timeworn Crimson Horn",
+    targetReward: 0,
+    captureReward: 10,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Crab Pearl+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:80
+  },
+  {
+    MonsterId:21,
+    RankId:3,
+    name: "Afflicted Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:22,
     RankId:1,
     name: "",
     targetReward: 0,

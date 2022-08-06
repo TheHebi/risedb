@@ -2454,6 +2454,226 @@ const partData = [
   {
     MonsterId:17,
     RankId:1,
+    name: "Bishaten Fur",
+    targetReward: 22,
+    captureReward: 23,
+    brokenPartReward: 20,
+    carve: 52,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:17,
+    RankId:1,
+    name: "Bishaten Feather",
+    targetReward: 33,
+    captureReward: 36,
+    brokenPartReward: 70,
+    carve: 33,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:17,
+    RankId:1,
+    name: "Bishaten Talon",
+    targetReward: 22,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:1,
+    name: "Bishaten Horn",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:1,
+    name: "Jumbo Bone",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:1,
+    name: "Bishaten Tailcase",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 100,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Bishaten Fur+",
+    targetReward: 20,
+    captureReward: 20,
+    brokenPartReward: 15,
+    carve: 49,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Bishaten Feather+",
+    targetReward: 32,
+    captureReward: 33,
+    brokenPartReward: 70,
+    carve: 32,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Bishaten Talon+",
+    targetReward: 21,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Bishaten Horn+",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 5,
+    carve: 4,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:17,
+    RankId:2,
+    name: "Bishaten Tailcase+",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Bishaten Finefur",
+    targetReward: 19,
+    captureReward: 21,
+    brokenPartReward: 15,
+    carve: 49,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Bishaten Glidefeather",
+    targetReward: 28,
+    captureReward: 34,
+    brokenPartReward: 70,
+    carve: 32,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Bishaten Hardclaw",
+    targetReward: 20,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Bishaten Heavyhorn",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Beast Gem",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 5,
+    captureReward: 6,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Bishaten Hardtail",
+    targetReward: 0,
+    captureReward: 23,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:17,
+    RankId:3,
+    name: "Afflicted Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:18,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

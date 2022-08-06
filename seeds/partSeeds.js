@@ -1794,6 +1794,246 @@ const partData = [
   {
     MonsterId:14,
     RankId:1,
+    name: "Barroth Shel",
+    targetReward: 14,
+    captureReward: 12,
+    brokenPartReward: 100,
+    carve: 42,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Barroth Ridge",
+    targetReward: 28,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Barroth Claw",
+    targetReward: 30,
+    captureReward: 20,
+    brokenPartReward: 100,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Barroth Scalp",
+    targetReward: 10,
+    captureReward: 13,
+    brokenPartReward: 8,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Barroth Tail",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Fertile Mud",
+    targetReward: 10,
+    captureReward: 11,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:14,
+    RankId:1,
+    name: "Monster Bone M",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Barroth Carapace",
+    targetReward: 15,
+    captureReward: 13,
+    brokenPartReward: 100,
+    carve: 42,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Barroth Ridge+",
+    targetReward: 29,
+    captureReward: 23,
+    brokenPartReward: 0,
+    carve: 31,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Barroth Claw+",
+    targetReward: 21,
+    captureReward: 32,
+    brokenPartReward: 100,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Barroth Scalp",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 6,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Barroth Tail",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 60,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Rich Mud",
+    targetReward: 11,
+    captureReward: 11,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 1,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Barroth Cortex",
+    targetReward: 15,
+    captureReward: 13,
+    brokenPartReward: 100,
+    carve: 42,
+    droppedMaterial:60
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Barroth Chine",
+    targetReward: 29,
+    captureReward: 23,
+    brokenPartReward: 0,
+    carve: 31,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Barroth Hardclaw",
+    targetReward: 21,
+    captureReward: 32,
+    brokenPartReward: 100,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Barroth Crown",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 6,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Barroth Lash",
+    targetReward: 6,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 60,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Rich Mud",
+    targetReward: 11,
+    captureReward: 11,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Monster Toughbone",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 1,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:14,
+    RankId:3,
+    name: "Afflicted Monsterbone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

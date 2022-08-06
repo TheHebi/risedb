@@ -3543,6 +3543,86 @@ const partData = [
   },
   {
     MonsterId:25,
+    RankId:3,
+    name: "Abyssal Dragonscale",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 37,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Archdemon Backshell",
+    targetReward: 28,
+    captureReward: 0,
+    brokenPartReward: 97,
+    carve: 29,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Archdemon Piercetalon",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Archdemon Wingtalon",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Consumption Parasite",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Archdemon Taailhook",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Abyssal Dragonsphire",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:25,
+    RankId:3,
+    name: "Archdemon Doomhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 100,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:26,
     RankId:1,
     name: "",
     targetReward: 0,

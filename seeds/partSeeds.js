@@ -2034,6 +2034,276 @@ const partData = [
   {
     MonsterId:15,
     RankId:1,
+    name: "Basarios Shell",
+    targetReward: 16,
+    captureReward: 24,
+    brokenPartReward: 80,
+    carve: 40,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Basarios Pleura",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 55,
+    carve: 27,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Basarios Wing",
+    targetReward: 20,
+    captureReward: 34,
+    brokenPartReward: 40,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Basarios Tail",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Poison Sac",
+    targetReward: 12,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Flame Sac",
+    targetReward: 8,
+    captureReward: 14,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:1,
+    name: "Machalite Ore",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 35,
+    carve: 12,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Basarios Carapace",
+    targetReward: 19,
+    captureReward: 27,
+    brokenPartReward: 70,
+    carve: 37,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Basarios Pleura+",
+    targetReward: 28,
+    captureReward: 0,
+    brokenPartReward: 55,
+    carve: 26,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Basarios Tears",
+    targetReward: 7,
+    captureReward: 10,
+    brokenPartReward: 10,
+    carve: 7,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Toxin Sac",
+    targetReward: 17,
+    captureReward: 18,
+    brokenPartReward: 20,
+    carve: 19,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Inferno Sac",
+    targetReward: 15,
+    captureReward: 15,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Carbalite Ore",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 40,
+    carve: 10,
+    droppedMaterial:31
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Basarios Wing",
+    targetReward: 0,
+    captureReward: 18,
+    brokenPartReward: 25,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:2,
+    name: "Basarios Tail",
+    targetReward: 0,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Cortex",
+    targetReward: 15,
+    captureReward: 24,
+    brokenPartReward: 67,
+    carve: 38,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Pectus+",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 55,
+    carve: 28,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Fellwing",
+    targetReward: 20,
+    captureReward: 32,
+    brokenPartReward: 40,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Lash",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Deadly Poison Sac",
+    targetReward: 12,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Conflagrant Sac",
+    targetReward: 8,
+    captureReward: 13,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Eltalite Ore",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 35,
+    carve: 12,
+    droppedMaterial:31
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Pallium",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Basarios Tears",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 10,
+    carve: 0,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:15,
+    RankId:3,
+    name: "Afflicted Monster Bones",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:16,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

@@ -3623,6 +3623,86 @@ const partData = [
   },
   {
     MonsterId:26,
+    RankId:3,
+    name: "Garangolm Cortex",
+    targetReward: 19,
+    captureReward: 27,
+    brokenPartReward: 15,
+    carve: 37,
+    droppedMaterial:17
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Garangolm Shard",
+    targetReward: 34,
+    captureReward: 38,
+    brokenPartReward: 25,
+    carve: 26,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Golm Thick Juice",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 10,
+    carve: 20,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Garangolm Hardfang",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 20,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Golm Ploughtail",
+    targetReward: 7,
+    captureReward: 9,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Garangolm Fist",
+    targetReward: 0,
+    captureReward: 21,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:26,
+    RankId:3,
+    name: "Afflicted Fang",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:27,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -1553,7 +1553,247 @@ const partData = [
   },
   {
     MonsterId:13,
+    RankId:1,
+    name: "Barioth Shell",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 25,
+    carve: 40,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Barioth Pelt",
+    targetReward: 33,
+    captureReward: 31,
+    brokenPartReward: 0,
+    carve: 25,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Barioth Claw",
+    targetReward: 9,
+    captureReward: 17,
+    brokenPartReward: 75,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Barioth Spike",
+    targetReward: 13,
+    captureReward: 9,
+    brokenPartReward: 25,
+    carve: 20,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Barioth Tail",
+    targetReward: 8,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Frost Sac",
+    targetReward: 16,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:1,
+    name: "Amber Fang",
+    targetReward: 0,
+    captureReward: 13,
+    brokenPartReward: 75,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Barioth Carapace",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 39,
+    droppedMaterial:32
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Barioth Pelt+",
+    targetReward: 33,
+    captureReward: 33,
+    brokenPartReward: 0,
+    carve: 25,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Barioth Claw+",
+    targetReward: 12,
+    captureReward: 18,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Barioth Spike",
+    targetReward: 8,
+    captureReward: 6,
+    brokenPartReward: 30,
+    carve: 15,
+    droppedMaterial:7
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Barrioth Tail",
+    targetReward: 5,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 65,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Freezer Sac",
+    targetReward: 18,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:2,
+    name: "Amber Fang+",
+    targetReward: 0,
+    captureReward: 14,
+    brokenPartReward: 75,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
     RankId:3,
+    name: "Barioth Cortex",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 39,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Barioth Thickfur",
+    targetReward: 30,
+    captureReward: 31,
+    brokenPartReward: 0,
+    carve: 25,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Barioth Hardclaw",
+    targetReward: 10,
+    captureReward: 18,
+    brokenPartReward: 75,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Barioth Greatspike",
+    targetReward: 13,
+    captureReward: 9,
+    brokenPartReward: 25,
+    carve: 20,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Barioth Lash",
+    targetReward: 5,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Cryo Sac",
+    targetReward: 18,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 5,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Amber Hardfang",
+    targetReward: 0,
+    captureReward: 13,
+    brokenPartReward: 75,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:3,
+    name: "Afflicted Fang",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:14,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

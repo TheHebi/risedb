@@ -1474,6 +1474,86 @@ const partData = [
   {
     MonsterId:12,
     RankId:3,
+    name: "Auroracanth Icescale",
+    targetReward: 21,
+    captureReward: 17,
+    brokenPartReward: 16,
+    carve: 42,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Auroracanth Icecortex",
+    targetReward: 33,
+    captureReward: 32,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Auroracanth Fin",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Monster Slogbone",
+    targetReward: 10,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Cryo Sac",
+    targetReward: 19,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 3,
+    captureReward: 4,
+    brokenPartReward: 4,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Auroracanth Iceclaw",
+    targetReward: 0,
+    captureReward: 24,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:12,
+    RankId:3,
+    name: "Afflicted Claw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:13,
+    RankId:3,
     name: "",
     targetReward: 0,
     captureReward: 0,

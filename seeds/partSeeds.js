@@ -4764,6 +4764,246 @@ const partData = [
   {
     MonsterId:33,
     RankId:1,
+    name: "Flabby Hide",
+    targetReward: 15,
+    captureReward: 16,
+    brokenPartReward: 100,
+    carve: 36,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:33,
+    RankId:1,
+    name: "Suspicious Fang",
+    targetReward: 29,
+    captureReward: 33,
+    brokenPartReward: 60,
+    carve: 21,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:33,
+    RankId:1,
+    name: "Pale Extract",
+    targetReward: 20,
+    captureReward: 23,
+    brokenPartReward: 28,
+    carve: 28,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:33,
+    RankId:1,
+    name: "Pale Bone",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 12,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:1,
+    name: "Electro Sac",
+    targetReward: 18,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:1,
+    name: "Monster Bone M",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Pearl Hide",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 100,
+    carve: 37,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Suspicious Fang+",
+    targetReward: 20,
+    captureReward: 34,
+    brokenPartReward: 52,
+    carve: 24,
+    droppedMaterial:27
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Pale Extract",
+    targetReward: 14,
+    captureReward: 19,
+    brokenPartReward: 20,
+    carve: 19,
+    droppedMaterial:70
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Pale Bone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 16,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Pale Steak",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 12,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Thunder Sac",
+    targetReward: 21,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 1,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Pearl Glosshide",
+    targetReward: 16,
+    captureReward: 15,
+    brokenPartReward: 100,
+    carve: 37,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Mystic Hardfang",
+    targetReward: 29,
+    captureReward: 33,
+    brokenPartReward: 52,
+    carve: 24,
+    droppedMaterial:27
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Pale Extract",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 19,
+    droppedMaterial:22
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Khezu Special Cut",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 12,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Lightning Sac",
+    targetReward: 21,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Monster Toughbone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Wyvern Gem",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Pale Steak",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 16,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:33,
+    RankId:3,
+    name: "Afflicted Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

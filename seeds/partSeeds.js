@@ -5364,6 +5364,196 @@ const partData = [
   {
     MonsterId:36,
     RankId:1,
+    name: "Lagombi Pelt",
+    targetReward: 22,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 39,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:36,
+    RankId:1,
+    name: "Lagombi Plastron",
+    targetReward: 39,
+    captureReward: 37,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:36,
+    RankId:1,
+    name: "Lagombi Iceclaw",
+    targetReward: 23,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 24,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:36,
+    RankId:1,
+    name: "Jumbo Bone",
+    targetReward: 16,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:1,
+    name: "Lagombi Ear",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Lagombi Pelt+",
+    targetReward: 21,
+    captureReward: 14,
+    brokenPartReward: 12,
+    carve: 38,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Lagombi Plastron+",
+    targetReward: 38,
+    captureReward: 32,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Lagombi Frozenclaw+",
+    targetReward: 22,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 24,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 14,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 8,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:36,
+    RankId:2,
+    name: "Lagombi Ear+",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Lagombi Fur",
+    targetReward: 21,
+    captureReward: 14,
+    brokenPartReward: 15,
+    carve: 36,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Lagombi Cuirass",
+    targetReward: 36,
+    captureReward: 31,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Lagombi Frigidclaw",
+    targetReward: 25,
+    captureReward: 17,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 15,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 5,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Lagombi Auricle",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Beast Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:36,
+    RankId:3,
+    name: "Afflicted Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:37,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

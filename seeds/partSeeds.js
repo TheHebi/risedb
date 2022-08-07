@@ -5193,6 +5193,176 @@ const partData = [
   },
   {
     MonsterId:35,
+    RankId:2,
+    name: "Daora Carapace",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Dragon Scale+",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 24,
+    droppedMaterial:45
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Claw+",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 15,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Webbing",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Tail",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Daora Horn+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:2,
+    name: "Elder Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Cortex",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Shard",
+    targetReward: 28,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 23,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Hardclaw",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 17,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Fellwing",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Lash",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Gem",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Large Elder Dragon Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Daora Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:3,
+    name: "Elder Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:36,
     RankId:1,
     name: "",
     targetReward: 0,

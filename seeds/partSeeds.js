@@ -7073,6 +7073,166 @@ const partData = [
   },
   {
     MonsterId:46,
+    RankId:2,
+    name: "Rajang Blackfur",
+    targetReward: 16,
+    captureReward: 27,
+    brokenPartReward: 30,
+    carve: 37,
+    droppedMaterial:58
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Rajang Claw+",
+    targetReward: 19,
+    captureReward: 20,
+    brokenPartReward: 70,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Rajang Fang+",
+    targetReward: 28,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Rajang Tail",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Gold Rajang Pelt",
+    targetReward: 12,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 10,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 6,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Great Stoutbone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:2,
+    name: "Rajang Horn+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Rajang Wildpelt",
+    targetReward: 17,
+    captureReward: 33,
+    brokenPartReward: 30,
+    carve: 37,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Rajang Hardclaw",
+    targetReward: 22,
+    captureReward: 26,
+    brokenPartReward: 70,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Rajang Hardfang",
+    targetReward: 29,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Gold Rajang Pelt+",
+    targetReward: 12,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 10,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 6,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Solid Bone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Rajang Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:46,
+    RankId:3,
+    name: "Rajang Tail",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -7003,6 +7003,76 @@ const partData = [
   },
   {
     MonsterId:45,
+    RankId:3,
+    name: "Pyre-Kadaki Cortex",
+    targetReward: 17,
+    captureReward: 25,
+    brokenPartReward: 50,
+    carve: 33,
+    droppedMaterial:60
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Pyre-Kadaki Silk+",
+    targetReward: 15,
+    captureReward: 20,
+    brokenPartReward: 30,
+    carve: 13,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Pyre-Kadaki Dull Glowgut",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Pyre-Kadaki Hardclaw",
+    targetReward: 24,
+    captureReward: 31,
+    brokenPartReward: 100,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Pyre-Kadaki Spike+",
+    targetReward: 10,
+    captureReward: 14,
+    brokenPartReward: 40,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Monster Essence",
+    targetReward: 17,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:45,
+    RankId:3,
+    name: "Queen Substance",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:46,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -4613,6 +4613,156 @@ const partData = [
   },
   {
     MonsterId:32,
+    RankId:2,
+    name: "Jyuratodus Carapace",
+    targetReward: 12,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 27,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Jyuratodus Scale+",
+    targetReward: 34,
+    captureReward: 19,
+    brokenPartReward: 100,
+    carve: 37,
+    droppedMaterial:37
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Jyuratodus Fang+",
+    targetReward: 14,
+    captureReward: 25,
+    brokenPartReward: 100,
+    carve: 15,
+    droppedMaterial:12
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Jyuratodus Fin+",
+    targetReward: 9,
+    captureReward: 19,
+    brokenPartReward: 100,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Torrent Sac",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 3,
+    captureReward: 4,
+    brokenPartReward: 0,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Jyuratodus Cortex",
+    targetReward: 12,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 27,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Jyuratodus Shard",
+    targetReward: 34,
+    captureReward: 19,
+    brokenPartReward: 100,
+    carve: 15,
+    droppedMaterial:12
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Jyuratodus Hardfang",
+    targetReward: 14,
+    captureReward: 25,
+    brokenPartReward: 100,
+    carve: 15,
+    droppedMaterial:12
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Jyuratodus Grandfin",
+    targetReward: 9,
+    captureReward: 19,
+    brokenPartReward: 100,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Monster Keenbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Flood Sac",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:32,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:33,
     RankId:1,
     name: "",
     targetReward: 0,

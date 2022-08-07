@@ -6754,6 +6754,256 @@ const partData = [
   {
     MonsterId:44,
     RankId:1,
+    name: "Pukei-Pukei Scale",
+    targetReward: 20,
+    captureReward: 19,
+    brokenPartReward: 25,
+    carve: 42,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Pukei-Pukei Shell",
+    targetReward: 27,
+    captureReward: 31,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Pukei-Pukei Quill",
+    targetReward: 11,
+    captureReward: 16,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Pukei-Pukei Tail",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Pukei-Pukei Sac",
+    targetReward: 14,
+    captureReward: 22,
+    brokenPartReward: 75,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Posion Sac",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:1,
+    name: "Monster Bone L",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Pukei-Pukei Scale+",
+    targetReward: 21,
+    captureReward: 19,
+    brokenPartReward: 22,
+    carve: 42,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Pukei-Pukei Carapace",
+    targetReward: 28,
+    captureReward: 34,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Pukei-Pukei Wing",
+    targetReward: 12,
+    captureReward: 15,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Pukei-Pukei Sac+",
+    targetReward: 15,
+    captureReward: 18,
+    brokenPartReward: 75,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Toxin Sac",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Bird Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 3,
+    carve: 4,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:44,
+    RankId:2,
+    name: "Pukei-Pukei Tail",
+    targetReward: 0,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Pukei-Pukei Shard",
+    targetReward: 18,
+    captureReward: 19,
+    brokenPartReward: 22,
+    carve: 42,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Pukei-Pukei Cortex",
+    targetReward: 26,
+    captureReward: 33,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Pukei-Pukei Fellwing",
+    targetReward: 11,
+    captureReward: 15,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Large Pukei-Pukei Sac",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 75,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Pukei-Pukei Lash",
+    targetReward: 7,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Deadly Poison Sac",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Monster Toughbone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Fey Wyvern Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 4,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Bird Wyvern Gem",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:44,
+    RankId:3,
+    name: "Afflicted Scale",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:45,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

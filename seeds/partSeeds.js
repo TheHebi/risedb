@@ -4424,6 +4424,196 @@ const partData = [
   {
     MonsterId:31,
     RankId:1,
+    name: "Great Wroggi Hide",
+    targetReward: 22,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 42,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:31,
+    RankId:1,
+    name: "Great Wroggi Brace",
+    targetReward: 34,
+    captureReward: 46,
+    brokenPartReward: 0,
+    carve: 31,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:31,
+    RankId:1,
+    name: "Kings Beak",
+    targetReward: 5,
+    captureReward: 15,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:1,
+    name: "Poison Sac",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 27,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:1,
+    name: "Monster Bone M",
+    targetReward: 13,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Great Wroggi Hide+",
+    targetReward: 22,
+    captureReward: 24,
+    brokenPartReward: 0,
+    carve: 41,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Great Wroggi Brace+",
+    targetReward: 36,
+    captureReward: 46,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Toxin Sac",
+    targetReward: 27,
+    captureReward: 0,
+    brokenPartReward: 18,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Monster Bone+",
+    targetReward: 12,
+    captureReward: 13,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Bird Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 12,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:31,
+    RankId:2,
+    name: "Kings Beak",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Great Wroggi Thickhide",
+    targetReward: 34,
+    captureReward: 37,
+    brokenPartReward: 0,
+    carve: 43,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Great Wroggi Brace+",
+    targetReward: 21,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Deadly Poison Sac",
+    targetReward: 30,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 31,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Monster Hardbone",
+    targetReward: 12,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Fey Wyvern Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 5,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Imperial Beak",
+    targetReward: 0,
+    captureReward: 20,
+    brokenPartReward: 75,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Bird Wyvern Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:3,
+    name: "Afflicted Pelt",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:32,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

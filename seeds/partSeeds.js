@@ -5704,6 +5704,276 @@ const partData = [
   {
     MonsterId:39,
     RankId:1,
+    name: "Magnamalo Scale",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 36,
+    carve: 36,
+    droppedMaterial:19
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Shell",
+    targetReward: 29,
+    captureReward: 37,
+    brokenPartReward: 0,
+    carve: 21,
+    droppedMaterial:26
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Blade",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Scute",
+    targetReward: 7,
+    captureReward: 19,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:8
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Tail",
+    targetReward: 8,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamaalo Ghostprism",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Plate",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:39,
+    RankId:1,
+    name: "Magnamalo Horn",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 97,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Scale+",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 34,
+    droppedMaterial:16
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Shell+",
+    targetReward: 30,
+    captureReward: 35,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:26
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Blade+",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Scute+",
+    targetReward: 8,
+    captureReward: 18,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:8
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Soulprism",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Plate",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Purple Magna Orb",
+    targetReward: 1,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Horn+",
+    targetReward: 0,
+    captureReward: 25,
+    brokenPartReward: 92,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:2,
+    name: "Magnamalo Tail",
+    targetReward: 0,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Shard",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 33,
+    droppedMaterial:16
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Cortex",
+    targetReward: 28,
+    captureReward: 35,
+    brokenPartReward: 0,
+    carve: 20,
+    droppedMaterial:26
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magna Ascended Blade",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Bladeshell",
+    targetReward: 8,
+    captureReward: 18,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:8
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Speartail",
+    targetReward: 6,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magna Soulprism",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 25,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Purple Magna Orb",
+    targetReward: 4,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 4,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Orb",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Magnamalo Hellhorn",
+    targetReward: 0,
+    captureReward: 25,
+    brokenPartReward: 92,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:39,
+    RankId:3,
+    name: "Afflicted Fang",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:40,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

@@ -7233,7 +7233,177 @@ const partData = [
   },
   {
     MonsterId:47,
-    RankId:1,
+    RankId:2,
+    name: "Rakna-Kadaki Carapace",
+    targetReward: 17,
+    captureReward: 25,
+    brokenPartReward: 50,
+    carve: 33,
+    droppedMaterial:60
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Rakna-Kadaki Silk",
+    targetReward: 12,
+    captureReward: 17,
+    brokenPartReward: 30,
+    carve: 13,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Rakna-Kadaki Glowgut",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Rakna-Kadaki Sharpclaw",
+    targetReward: 25,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Rakna-Kadaki Spike",
+    targetReward: 10,
+    captureReward: 15,
+    brokenPartReward: 40,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Monster Broth",
+    targetReward: 19,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Drone Substance",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:47,
+    RankId:2,
+    name: "Queen Substance",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Rakna-Kadaki Cortex",
+    targetReward: 17,
+    captureReward: 25,
+    brokenPartReward: 50,
+    carve: 33,
+    droppedMaterial:60
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Rakna-Kadaki Silk+",
+    targetReward: 12,
+    captureReward: 17,
+    brokenPartReward: 30,
+    carve: 13,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Rakna-Kadaki Glowgut+",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Rakna-Kadaki Hardclaw",
+    targetReward: 25,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Rakna-Kadaki Spike+",
+    targetReward: 10,
+    captureReward: 15,
+    brokenPartReward: 40,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Monster Essence",
+    targetReward: 19,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Drone Substance",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:5
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Queen Substance",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:45
+  },
+  {
+    MonsterId:47,
+    RankId:3,
+    name: "Afflicted Claw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:48,
+    RankId:2,
     name: "",
     targetReward: 0,
     captureReward: 0,

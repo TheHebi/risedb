@@ -5623,6 +5623,86 @@ const partData = [
   },
   {
     MonsterId:38,
+    RankId:3,
+    name: "Magmadron Shard",
+    targetReward: 18,
+    captureReward: 16,
+    brokenPartReward: 70,
+    carve: 38,
+    droppedMaterial:19
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Magmadron Cortex",
+    targetReward: 26,
+    captureReward: 23,
+    brokenPartReward: 30,
+    carve: 27,
+    droppedMaterial:28
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Large Magmadron Fin",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 22,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Magmadron Hardwhisker",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Magmadron Tail",
+    targetReward: 6,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Inferno Lava Mud",
+    targetReward: 21,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Magmadron Mantle",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:38,
+    RankId:3,
+    name: "Magmadron Hardclaw",
+    targetReward: 0,
+    captureReward: 32,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:39,
     RankId:1,
     name: "",
     targetReward: 0,

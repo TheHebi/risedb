@@ -3774,6 +3774,276 @@ const partData = [
   {
     MonsterId:28,
     RankId:1,
+    name: "Goss Harag Fur",
+    targetReward: 19,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Goss Harag Hide",
+    targetReward: 29,
+    captureReward: 29,
+    brokenPartReward: 20,
+    carve: 19,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Goss Harag Brace",
+    targetReward: 20,
+    captureReward: 25,
+    brokenPartReward: 20,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Block of Ice",
+    targetReward: 14,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Frost Sac",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Massive Bone",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Goss Harag Claw",
+    targetReward: 0,
+    captureReward: 20,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:28,
+    RankId:1,
+    name: "Goss Harag Horn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Fur+",
+    targetReward: 18,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 29,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Hide+",
+    targetReward: 27,
+    captureReward: 25,
+    brokenPartReward: 10,
+    carve: 18,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Brace+",
+    targetReward: 20,
+    captureReward: 20,
+    brokenPartReward: 20,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Block of Ice+",
+    targetReward: 14,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:33
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Freezer Sac",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 9,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 10,
+    carve: 6,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Bile",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 8,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Claw+",
+    targetReward: 0,
+    captureReward: 18,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:28,
+    RankId:2,
+    name: "Goss Harag Horn+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Harag Frozen Fur",
+    targetReward: 18,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 29,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Finefur",
+    targetReward: 27,
+    captureReward: 27,
+    brokenPartReward: 15,
+    carve: 18,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Harag Allbrace",
+    targetReward: 20,
+    captureReward: 22,
+    brokenPartReward: 20,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Dense Block of Ice",
+    targetReward: 15,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:33
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Cryo Sac",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 9,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 6,
+    droppedMaterial:2
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Harag Bile+",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 8,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Harag Hardclaw",
+    targetReward: 0,
+    captureReward: 20,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:14
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Goss Harag Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:28,
+    RankId:3,
+    name: "Afflicted Claw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

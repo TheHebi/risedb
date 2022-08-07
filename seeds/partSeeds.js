@@ -4234,6 +4234,196 @@ const partData = [
   {
     MonsterId:30,
     RankId:1,
+    name: "Great Izuchi Hide",
+    targetReward: 21,
+    captureReward: 26,
+    brokenPartReward: 20,
+    carve: 43,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:30,
+    RankId:1,
+    name: "Great Izuchi Pelt",
+    targetReward: 36,
+    captureReward: 39,
+    brokenPartReward: 30,
+    carve: 33,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:30,
+    RankId:1,
+    name: "Great Izuchi Tail",
+    targetReward: 5,
+    captureReward: 15,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:1,
+    name: "Screamer Sac",
+    targetReward: 26,
+    captureReward: 20,
+    brokenPartReward: 70,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:1,
+    name: "Monster Bone S",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Great Izuchi Hide+",
+    targetReward: 23,
+    captureReward: 27,
+    brokenPartReward: 20,
+    carve: 44,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Great Izuchi Pelt+",
+    targetReward: 39,
+    captureReward: 39,
+    brokenPartReward: 32,
+    carve: 35,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Great Izuchi Tail+",
+    targetReward: 5,
+    captureReward: 15,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Screamer sac",
+    targetReward: 18,
+    captureReward: 16,
+    brokenPartReward: 65,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Monster Bone+",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:2,
+    name: "Bird Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Great Izuchi Thickhide",
+    targetReward: 27,
+    captureReward: 25,
+    brokenPartReward: 20,
+    carve: 43,
+    droppedMaterial:27
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Great Izuchi Thickfur",
+    targetReward: 42,
+    captureReward: 35,
+    brokenPartReward: 32,
+    carve: 33,
+    droppedMaterial:18
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Great Izuchi Grindtail",
+    targetReward: 5,
+    captureReward: 15,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Screamer Sac",
+    targetReward: 10,
+    captureReward: 16,
+    brokenPartReward: 65,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Monster Hardbone",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Fey Wyvern Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Bird Wyvern Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:30,
+    RankId:3,
+    name: "Afflicted Pelt",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:31,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

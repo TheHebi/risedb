@@ -5004,6 +5004,196 @@ const partData = [
   {
     MonsterId:34,
     RankId:1,
+    name: "Kulu-Ya-Ku Scale",
+    targetReward: 25,
+    captureReward: 22,
+    brokenPartReward: 20,
+    carve: 46,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:34,
+    RankId:1,
+    name: "Kulu-Ya-Ku Hide",
+    targetReward: 41,
+    captureReward: 43,
+    brokenPartReward: 20,
+    carve: 36,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:34,
+    RankId:1,
+    name: "Kulu-Ya-Ku Plume",
+    targetReward: 13,
+    captureReward: 23,
+    brokenPartReward: 80,
+    carve: 18,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:34,
+    RankId:1,
+    name: "Kulu-Ya-Ku Beak",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:1,
+    name: "Monster Bone M",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Kulu-Ya-Ku Scale+",
+    targetReward: 24,
+    captureReward: 22,
+    brokenPartReward: 20,
+    carve: 44,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Kulu-Ya-Ku Hide+",
+    targetReward: 41,
+    captureReward: 41,
+    brokenPartReward: 15,
+    carve: 35,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Kulu-Ya-Ku Plume+",
+    targetReward: 13,
+    captureReward: 20,
+    brokenPartReward: 80,
+    carve: 18,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Kulu-Ya-Ku Beak+",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Monster Bone+",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:2,
+    name: "Bird Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Kulu-Ya-Ku Shard",
+    targetReward: 24,
+    captureReward: 21,
+    brokenPartReward: 20,
+    carve: 44,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Kulu-Ya-Ku Thickhide",
+    targetReward: 41,
+    captureReward: 38,
+    brokenPartReward: 15,
+    carve: 35,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Large Kulu-Ya-Ku Plume",
+    targetReward: 14,
+    captureReward: 19,
+    brokenPartReward: 80,
+    carve: 18,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Colossal Drill Beak",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Monster Hardbone",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Fey Wyvern Gem",
+    targetReward: 3,
+    captureReward: 4,
+    brokenPartReward: 5,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Bird Wyvern Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:34,
+    RankId:3,
+    name: "Afflicted Pelt",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:35,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

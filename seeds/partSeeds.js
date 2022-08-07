@@ -6054,6 +6054,236 @@ const partData = [
   {
     MonsterId:41,
     RankId:1,
+    name: "Mizutsune Scale",
+    targetReward: 21,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 39,
+    droppedMaterial:19
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Mizutsune Purple fur",
+    targetReward: 31,
+    captureReward: 23,
+    brokenPartReward: 30,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Mizutsune Claw",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 13,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Bubblefoam",
+    targetReward: 24,
+    captureReward: 14,
+    brokenPartReward: 32,
+    carve: 21,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Mizutsune Tail",
+    targetReward: 7,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Mizutsune Plate",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:41,
+    RankId:1,
+    name: "Mizutsune Fin",
+    targetReward: 0,
+    captureReward: 32,
+    brokenPartReward: 65,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizutsune Scale+",
+    targetReward: 19,
+    captureReward: 17,
+    brokenPartReward: 0,
+    carve: 38,
+    droppedMaterial:18
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizutsune Purplefur+",
+    targetReward: 31,
+    captureReward: 27,
+    brokenPartReward: 30,
+    carve: 25,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizutsune Claw+",
+    targetReward: 15,
+    captureReward: 22,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Bubblefoam+",
+    targetReward: 23,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 21,
+    droppedMaterial:28
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizutsune Tail",
+    targetReward: 5,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "MMizutsune Plate",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizustune Water Orb",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:41,
+    RankId:2,
+    name: "Mizutsune Fin+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Shard",
+    targetReward: 19,
+    captureReward: 17,
+    brokenPartReward: 0,
+    carve: 38,
+    droppedMaterial:18
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Purplefell",
+    targetReward: 31,
+    captureReward: 27,
+    brokenPartReward: 30,
+    carve: 25,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Hardclaw",
+    targetReward: 15,
+    captureReward: 22,
+    brokenPartReward: 80,
+    carve: 25,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Distilled Bubblefoam",
+    targetReward: 23,
+    captureReward: 16,
+    brokenPartReward: 30,
+    carve: 21,
+    droppedMaterial:28
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Purple Mizutsune Tail",
+    targetReward: 5,
+    captureReward: 8,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Water Orb",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Mantle",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:41,
+    RankId:3,
+    name: "Mizutsune Silkfin",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

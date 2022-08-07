@@ -4044,6 +4044,196 @@ const partData = [
   {
     MonsterId:29,
     RankId:1,
+    name: "Great Baggi Hide",
+    targetReward: 21,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 40,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:29,
+    RankId:1,
+    name: "Great Baggi Claw",
+    targetReward: 36,
+    captureReward: 46,
+    brokenPartReward: 0,
+    carve: 33,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:29,
+    RankId:1,
+    name: "Kings Crest",
+    targetReward: 5,
+    captureReward: 15,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:1,
+    name: "Sleep Sac",
+    targetReward: 24,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 27,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:1,
+    name: "Monsterbone M",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 18,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Great Baggi Hide+",
+    targetReward: 22,
+    captureReward: 23,
+    brokenPartReward: 0,
+    carve: 38,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Great Baggi Claw+",
+    targetReward: 37,
+    captureReward: 47,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Coma Sac",
+    targetReward: 25,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 27,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Bird Wyvern Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 10,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Monster Bone+",
+    targetReward: 13,
+    captureReward: 13,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:2,
+    name: "Kings Crest",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Great Baggi Thickhide",
+    targetReward: 36,
+    captureReward: 41,
+    brokenPartReward: 0,
+    carve: 44,
+    droppedMaterial:37
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Great Baggi Claw+",
+    targetReward: 20,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 18,
+    droppedMaterial:8
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Torpor Sac",
+    targetReward: 30,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Monster Hardbone",
+    targetReward: 11,
+    captureReward: 13,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Fey Wyvern Gem",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 5,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Glorious Crest",
+    targetReward: 0,
+    captureReward: 15,
+    brokenPartReward: 75,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Bird WWyvern Gem",
+    targetReward: 0,
+    captureReward: 6,
+    brokenPartReward: 0,
+    carve: 4,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:29,
+    RankId:3,
+    name: "Afflicted Pelt",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:30,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

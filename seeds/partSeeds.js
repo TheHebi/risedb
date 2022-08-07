@@ -5553,6 +5553,76 @@ const partData = [
   },
   {
     MonsterId:37,
+    RankId:3,
+    name: "Lunagaron Cortex",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 26,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Lunagaron Shard",
+    targetReward: 34,
+    captureReward: 33,
+    brokenPartReward: 27,
+    carve: 37,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Luna Vermillion Hardclaw",
+    targetReward: 23,
+    captureReward: 27,
+    brokenPartReward: 50,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Frostborn Hardfang",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 23,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Lunagaron Bluecore",
+    targetReward: 8,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 12,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Lunagaron Frost Jewel",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:37,
+    RankId:3,
+    name: "Lunagaron Lash Shell",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:38,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -5973,6 +5973,86 @@ const partData = [
   },
   {
     MonsterId:40,
+    RankId:3,
+    name: "Malzeno Cortex",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 15,
+    carve: 37,
+    droppedMaterial:27
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Shard",
+    targetReward: 29,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 28,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Hardfang",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Bloody Parasite",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Tail",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Bloodstone",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:40,
+    RankId:3,
+    name: "Malzeno Fellwing",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 85,
+    carve: 13,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:41,
     RankId:1,
     name: "",
     targetReward: 0,

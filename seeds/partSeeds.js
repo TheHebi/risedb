@@ -6284,6 +6284,266 @@ const partData = [
   {
     MonsterId:42,
     RankId:1,
+    name: "Nargacuga Blackfur",
+    targetReward: 14,
+    captureReward: 28,
+    brokenPartReward: 0,
+    carve: 22,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Nargacuga Scale",
+    targetReward: 30,
+    captureReward: 15,
+    brokenPartReward: 30,
+    carve: 43,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Nargacuga Fang",
+    targetReward: 15,
+    captureReward: 24,
+    brokenPartReward: 25,
+    carve: 16,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Nargacuga Cutwing",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Narga Tailspike",
+    targetReward: 14,
+    captureReward: 20,
+    brokenPartReward: 0,
+    carve: 8,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Nargacuga Tail",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:1,
+    name: "Nargacuga Marrow",
+    targetReward: 7,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Pelt+",
+    targetReward: 14,
+    captureReward: 28,
+    brokenPartReward: 0,
+    carve: 22,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Scale+",
+    targetReward: 30,
+    captureReward: 17,
+    brokenPartReward: 30,
+    carve: 27,
+    droppedMaterial:37
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Fang+",
+    targetReward: 19,
+    captureReward: 21,
+    brokenPartReward: 25,
+    carve: 14,
+    droppedMaterial:12
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Razor",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Narga Tailspike",
+    targetReward: 8,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 5,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Tail",
+    targetReward: 6,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Narga Medulla",
+    targetReward: 5,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 3,
+    captureReward: 4,
+    brokenPartReward: 0,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:42,
+    RankId:2,
+    name: "Nargacuga Marrow",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 9,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Blackfur+",
+    targetReward: 20,
+    captureReward: 28,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Shard",
+    targetReward: 27,
+    captureReward: 17,
+    brokenPartReward: 27,
+    carve: 42,
+    droppedMaterial:24
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Hardfang",
+    targetReward: 15,
+    captureReward: 21,
+    brokenPartReward: 25,
+    carve: 16,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Cutwing+",
+    targetReward: 11,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Tailspear",
+    targetReward: 12,
+    captureReward: 20,
+    brokenPartReward: 0,
+    carve: 15,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Lash",
+    targetReward: 6,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Narga Medulla",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Nargacuga Mantle",
+    targetReward: 2,
+    captureReward: 4,
+    brokenPartReward: 3,
+    carve: 5,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:42,
+    RankId:3,
+    name: "Afflicted Fang",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

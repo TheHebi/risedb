@@ -6543,6 +6543,216 @@ const partData = [
   },
   {
     MonsterId:43,
+    RankId:2,
+    name: "Scale of Origin",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 42,
+    droppedMaterial:42
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Narwa Hide+",
+    targetReward: 28,
+    captureReward: 0,
+    brokenPartReward: 87,
+    carve: 25,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Horn of Origin",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Narwa Sparksac",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Narwa Tentacle",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 40,
+    carve: 11,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Orb of Origin",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 5,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Thunder Serpent Orb",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Wind Serpent Orb",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Narwa Claw+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 20,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:43,
+    RankId:2,
+    name: "Elder Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:27
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Scale of Origin+",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 37,
+    droppedMaterial:55
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Narwa Thickhide",
+    targetReward: 31,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 29,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Horn of Origin+",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Narwa Lightning Sac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 80,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Narwa Tentacle+",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 40,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Orb of Origin",
+    targetReward: 4,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Mantle of Origin",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Thunder Serpent Orb",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Wind Serpent Orb",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 7,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Narwa Hardclaw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:43,
+    RankId:3,
+    name: "Pure Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:16
+  },
+  {
+    MonsterId:44,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -4754,12 +4754,12 @@ const partData = [
   {
     MonsterId:32,
     RankId:3,
-    name: "Large Wyvern Gem",
-    targetReward: 2,
-    captureReward: 3,
-    brokenPartReward: 0,
-    carve: 1,
-    droppedMaterial:1
+    name: "Afflicted Shel",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
   },
   {
     MonsterId:33,

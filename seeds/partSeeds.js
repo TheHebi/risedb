@@ -8373,6 +8373,76 @@ const partData = [
   },
   {
     MonsterId:53,
+    RankId:3,
+    name: "S. Magala Cortex",
+    targetReward: 23,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 30,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Shard",
+    targetReward: 33,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 39,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Purifier",
+    targetReward: 19,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 17,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Lash",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Hardhorn",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 97,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Mantle",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:53,
+    RankId:3,
+    name: "S. Magala Lightwing",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -8223,6 +8223,86 @@ const partData = [
   },
   {
     MonsterId:51,
+    RankId:3,
+    name: "Begrudged Rancorscale",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 34,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Magna Armored Cortex",
+    targetReward: 28,
+    captureReward: 37,
+    brokenPartReward: 0,
+    carve: 22,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Surging Armblade",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 16,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Moaning Bladeshell",
+    targetReward: 8,
+    captureReward: 20,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Magnamalo Tail+",
+    targetReward: 6,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Magna Barrierprism",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 10,
+    carve: 26,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Magna Glare Eye",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 5,
+    carve: 2,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:51,
+    RankId:3,
+    name: "Horn of Malice",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 95,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:52,
     RankId:1,
     name: "",
     targetReward: 0,

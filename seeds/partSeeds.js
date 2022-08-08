@@ -8954,6 +8954,236 @@ const partData = [
   {
     MonsterId:57,
     RankId:1,
+    name: "Tetranadon Hide",
+    targetReward: 24,
+    captureReward: 21,
+    brokenPartReward: 30,
+    carve: 44,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Tetra Carapace",
+    targetReward: 32,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 32,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Tetranadon Beak",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Aqua Sac",
+    targetReward: 24,
+    captureReward: 29,
+    brokenPartReward: 70,
+    carve: 19,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Jumbo Bone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Tetranadon Disc",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:1,
+    name: "Shiny Nacre",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Tetranadon Hide+",
+    targetReward: 24,
+    captureReward: 21,
+    brokenPartReward: 30,
+    carve: 44,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Tetra Carapace+",
+    targetReward: 32,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 32,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Tetranadon Beak+",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 19,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Torrent Sac",
+    targetReward: 24,
+    captureReward: 29,
+    brokenPartReward: 70,
+    carve: 19,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Tetranadon Disc+",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:2,
+    name: "Shiny Nacre",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Tetranadon Thickhide",
+    targetReward: 24,
+    captureReward: 21,
+    brokenPartReward: 30,
+    carve: 44,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Heavy Tetra Carapace",
+    targetReward: 32,
+    captureReward: 33,
+    brokenPartReward: 100,
+    carve: 32,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Tetranadon Greatbeak",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Flood Sac",
+    targetReward: 24,
+    captureReward: 29,
+    brokenPartReward: 70,
+    carve: 19,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Tetranadon Finedisc",
+    targetReward: 0,
+    captureReward: 5,
+    brokenPartReward: 100,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Glittering Nacre",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Shimmering Nacre",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:57,
+    RankId:3,
+    name: "Afflicted Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:58,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

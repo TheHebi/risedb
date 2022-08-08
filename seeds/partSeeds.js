@@ -8534,6 +8534,216 @@ const partData = [
   {
     MonsterId:55,
     RankId:1,
+    name: "Somnacanth Scale",
+    targetReward: 21,
+    captureReward: 17,
+    brokenPartReward: 20,
+    carve: 43,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:55,
+    RankId:1,
+    name: "Somnacanth Shell",
+    targetReward: 34,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 33,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:1,
+    name: "Somnacanth Fin",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:1,
+    name: "Somnacanth Dust",
+    targetReward: 23,
+    captureReward: 30,
+    brokenPartReward: 20,
+    carve: 15,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:55,
+    RankId:1,
+    name: "Monster Bone L",
+    targetReward: 8,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:1,
+    name: "Somnacanth Talon",
+    targetReward: 0,
+    captureReward: 27,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Somnacanth Scale+",
+    targetReward: 21,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 43,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Somnacanth Shell+",
+    targetReward: 33,
+    captureReward: 29,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Somnacanth Fin+",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Somnacanth Sedative",
+    targetReward: 23,
+    captureReward: 12,
+    brokenPartReward: 17,
+    carve: 14,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Monster Hardbone",
+    targetReward: 7,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:55,
+    RankId:2,
+    name: "Somnacanth Talon+",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Somnacanth Shard",
+    targetReward: 21,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 43,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Somnacanth Cortex",
+    targetReward: 33,
+    captureReward: 29,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Somnacanth Wildfin",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Somna Dream Powder",
+    targetReward: 23,
+    captureReward: 12,
+    brokenPartReward: 17,
+    carve: 14,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Monster Toughbone",
+    targetReward: 7,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Somnacanth Dreamtalon",
+    targetReward: 0,
+    captureReward: 26,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:55,
+    RankId:3,
+    name: "Afflicted Shell",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

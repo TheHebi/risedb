@@ -10054,12 +10054,262 @@ const partData = [
   {
     MonsterId:63,
     RankId:1,
-    name: "",
-    targetReward: 0,
+    name: "Zinogre Shell",
+    targetReward: 21,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 34,
+    droppedMaterial:29
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Shocksfur",
+    targetReward: 31,
+    captureReward: 29,
+    brokenPartReward: 30,
+    carve: 25,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Shocker",
+    targetReward: 21,
+    captureReward: 25,
+    brokenPartReward: 70,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Tail",
+    targetReward: 8,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Fulgurbug",
+    targetReward: 17,
     captureReward: 0,
     brokenPartReward: 0,
     carve: 0,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Plate",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Horn",
+    targetReward: 0,
+    captureReward: 16,
+    brokenPartReward: 97,
+    carve: 0,
     droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:1,
+    name: "Zinogre Claw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 22,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Carapace",
+    targetReward: 21,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 33,
+    droppedMaterial:31
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Electrofur",
+    targetReward: 33,
+    captureReward: 29,
+    brokenPartReward: 30,
+    carve: 24,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Shocker+",
+    targetReward: 23,
+    captureReward: 25,
+    brokenPartReward: 70,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Tail",
+    targetReward: 4,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Fulgurbug",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Plate",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Jasper",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Horn+",
+    targetReward: 0,
+    captureReward: 16,
+    brokenPartReward: 90,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:2,
+    name: "Zinogre Claw+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 22,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Cortex",
+    targetReward: 21,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 33,
+    droppedMaterial:31
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Electrofur+",
+    targetReward: 33,
+    captureReward: 29,
+    brokenPartReward: 30,
+    carve: 24,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Deathly Shocker",
+    targetReward: 23,
+    captureReward: 25,
+    brokenPartReward: 70,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Lash",
+    targetReward: 8,
+    captureReward: 7,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Fulgurbug",
+    targetReward: 8,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Jasper",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 5,
+    carve: 1,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Skymerald",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Hardhorn",
+    targetReward: 0,
+    captureReward: 16,
+    brokenPartReward: 92,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:63,
+    RankId:3,
+    name: "Zinogre Hardclaw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 22,
+    droppedMaterial:10
   },
 ];
 

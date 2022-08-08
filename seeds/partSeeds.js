@@ -9183,6 +9183,76 @@ const partData = [
   },
   {
     MonsterId:58,
+    RankId:2,
+    name: "Narwa Carapace",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 37,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Narwa Hide+",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 29,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Narwa Horn+",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Narwa Sparksac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 80,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Narwa Tentacle",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 40,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Thunder Serpent Orb",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:58,
+    RankId:2,
+    name: "Narwa Claw+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:59,
     RankId:1,
     name: "",
     targetReward: 0,

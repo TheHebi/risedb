@@ -8743,6 +8743,216 @@ const partData = [
   },
   {
     MonsterId:56,
+    RankId:2,
+    name: "Teostra Carapace",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 27,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Fire Dragon Scale+",
+    targetReward: 26,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 21,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Mane",
+    targetReward: 19,
+    captureReward: 0,
+    brokenPartReward: 25,
+    carve: 18,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Claw+",
+    targetReward: 16,
+    captureReward: 0,
+    brokenPartReward: 18,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Powder",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 0,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Tail",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Horn+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 72,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Teostra Webbing",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:2,
+    name: "Elder Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Cortex",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 30,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Hellfire Shard",
+    targetReward: 31,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 24,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Mane",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Fire Dragon Hardclaw",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 18,
+    carve: 14,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Lash",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Gem",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 5,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Large Elder Dragon Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Hardhorn",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 8,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Fellwing",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Teostra Powder",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:56,
+    RankId:3,
+    name: "Pure Dragon Blood",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:57,
     RankId:1,
     name: "",
     targetReward: 0,

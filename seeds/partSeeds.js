@@ -7674,6 +7674,316 @@ const partData = [
   {
     MonsterId:49,
     RankId:1,
+    name: "Rathian Scale",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 60,
+    carve: 38,
+    droppedMaterial:45
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rathian Shell",
+    targetReward: 28,
+    captureReward: 34,
+    brokenPartReward: 36,
+    carve: 26,
+    droppedMaterial:45
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rathian Webbing",
+    targetReward: 19,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rathian Spike",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 5,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Flame Sac",
+    targetReward: 17,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 13,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Monster Bone L",
+    targetReward: 13,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rathian Plate",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 4,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rath Wingtalon",
+    targetReward: 0,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:49,
+    RankId:1,
+    name: "Rathalos Marrow",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Scale+",
+    targetReward: 14,
+    captureReward: 12,
+    brokenPartReward: 60,
+    carve: 43,
+    droppedMaterial:42
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Carapace",
+    targetReward: 31,
+    captureReward: 25,
+    brokenPartReward: 30,
+    carve: 31,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Webbing",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Spike+",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 5,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Inferno Sac",
+    targetReward: 18,
+    captureReward: 20,
+    brokenPartReward: 0,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Monster Keenbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Plate",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 7,
+    carve: 3,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathian Ruby",
+    targetReward: 1,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rath Wingtalon+",
+    targetReward: 0,
+    captureReward: 13,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathalos Marrow",
+    targetReward: 0,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:2,
+    name: "Rathalos Medulla",
+    targetReward: 0,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Shard",
+    targetReward: 14,
+    captureReward: 14,
+    brokenPartReward: 60,
+    carve: 41,
+    droppedMaterial:42
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Cortex",
+    targetReward: 27,
+    captureReward: 28,
+    brokenPartReward: 30,
+    carve: 30,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Weave",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Surspike",
+    targetReward: 7,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 5,
+    droppedMaterial:4
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Conflagrant Sac",
+    targetReward: 18,
+    captureReward: 21,
+    brokenPartReward: 0,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Monster Toughbone",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Ruby",
+    targetReward: 5,
+    captureReward: 7,
+    brokenPartReward: 7,
+    carve: 5,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rathian Mantle",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rath Wingripper",
+    targetReward: 0,
+    captureReward: 17,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Rath Medulla",
+    targetReward: 0,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 15,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:49,
+    RankId:3,
+    name: "Afflicted Scale",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

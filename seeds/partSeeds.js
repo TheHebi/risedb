@@ -8443,6 +8443,96 @@ const partData = [
   },
   {
     MonsterId:54,
+    RankId:3,
+    name: "Ceanataur Cortex",
+    targetReward: 24,
+    captureReward: 27,
+    brokenPartReward: 10,
+    carve: 41,
+    droppedMaterial:80
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Heavy Ceanataur Leg",
+    targetReward: 32,
+    captureReward: 36,
+    brokenPartReward: 0,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Ceanataur Hardclaw",
+    targetReward: 22,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Monster Slogbone",
+    targetReward: 12,
+    captureReward: 10,
+    brokenPartReward: 20,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Fine Black Pearl",
+    targetReward: 10,
+    captureReward: 15,
+    brokenPartReward: 0,
+    carve: 10,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Heavy Wyvern Scalp",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Solid Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 30,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Crab Pearl+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:75
+  },
+  {
+    MonsterId:54,
+    RankId:3,
+    name: "Afflicted Shell",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:55,
     RankId:1,
     name: "",
     targetReward: 0,

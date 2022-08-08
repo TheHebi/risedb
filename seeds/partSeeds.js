@@ -9474,6 +9474,216 @@ const partData = [
   {
     MonsterId:60,
     RankId:1,
+    name: "Tobi-Kadachi Pelt",
+    targetReward: 13,
+    captureReward: 12,
+    brokenPartReward: 70,
+    carve: 27,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:60,
+    RankId:1,
+    name: "Tobi-Kadachi Scale",
+    targetReward: 29,
+    captureReward: 19,
+    brokenPartReward: 30,
+    carve: 38,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:60,
+    RankId:1,
+    name: "Tobi-Kadachi Membrane",
+    targetReward: 23,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:1,
+    name: "Tobi-Kadachi Claw",
+    targetReward: 15,
+    captureReward: 33,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:60,
+    RankId:1,
+    name: "Tobi-Kadachi Electrode",
+    targetReward: 8,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:1,
+    name: "Electro Sac",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Tobi-Kadachi Pelt+",
+    targetReward: 17,
+    captureReward: 14,
+    brokenPartReward: 70,
+    carve: 31,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Tobi-Kadachi Scale+",
+    targetReward: 34,
+    captureReward: 22,
+    brokenPartReward: 17,
+    carve: 43,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Tobi-Kadachi Claw+",
+    targetReward: 24,
+    captureReward: 34,
+    brokenPartReward: 80,
+    carve: 13,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Tobi-Kadachi Electrode+",
+    targetReward: 9,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Thunder Sac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:60,
+    RankId:2,
+    name: "Tobi-Kadachi Membrane",
+    targetReward: 0,
+    captureReward: 13,
+    brokenPartReward: 0,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Tobi-Kadachi Thickfur",
+    targetReward: 17,
+    captureReward: 14,
+    brokenPartReward: 70,
+    carve: 27,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Tobi-Kadachi Shard",
+    targetReward: 34,
+    captureReward: 18,
+    brokenPartReward: 17,
+    carve: 36,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Tobi-Kadachi Hardclaw",
+    targetReward: 24,
+    captureReward: 29,
+    brokenPartReward: 80,
+    carve: 13,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Tobi-Kadachi Cathode",
+    targetReward: 9,
+    captureReward: 14,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Lightning Sac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 2,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Tobi-Kadachi Membrane+",
+    targetReward: 0,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:3,
+    name: "Afflicted Scale",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

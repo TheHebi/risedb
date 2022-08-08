@@ -9903,6 +9903,156 @@ const partData = [
   },
   {
     MonsterId:62,
+    RankId:2,
+    name: "Ibushi Carapace",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 37,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Ibushi Hide+",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 29,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Ibushi Horn+",
+    targetReward: 32,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 29,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Ibushi Windsac",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 80,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Ibushi Bluespike",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 40,
+    carve: 12,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Wind Serpent Orb",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 1,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:62,
+    RankId:2,
+    name: "Ibushi Claw+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Cortex",
+    targetReward: 20,
+    captureReward: 0,
+    brokenPartReward: 37,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Finehide",
+    targetReward: 31,
+    captureReward: 0,
+    brokenPartReward: 17,
+    carve: 29,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Hardhorn",
+    targetReward: 12,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Windsac+",
+    targetReward: 14,
+    captureReward: 0,
+    brokenPartReward: 60,
+    carve: 80,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Bluespike+",
+    targetReward: 17,
+    captureReward: 0,
+    brokenPartReward: 50,
+    carve: 12,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Wind Serpent Orb",
+    targetReward: 4,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:3
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Wind Dragonsphire",
+    targetReward: 2,
+    captureReward: 0,
+    brokenPartReward: 3,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:62,
+    RankId:3,
+    name: "Ibushi Hardclaw",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 21,
+    droppedMaterial:20
+  },
+  {
+    MonsterId:63,
     RankId:1,
     name: "",
     targetReward: 0,

@@ -9684,6 +9684,226 @@ const partData = [
   {
     MonsterId:61,
     RankId:1,
+    name: "Volvidon Shell",
+    targetReward: 15,
+    captureReward: 26,
+    brokenPartReward: 30,
+    carve: 40,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:61,
+    RankId:1,
+    name: "Volvidon Claw",
+    targetReward: 19,
+    captureReward: 34,
+    brokenPartReward: 0,
+    carve: 19,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:61,
+    RankId:1,
+    name: "Volvi Rickrack",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 24,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:1,
+    name: "Paralysis Sac",
+    targetReward: 16,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:1,
+    name: "Jumbo Bone",
+    targetReward: 13,
+    captureReward: 18,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:1,
+    name: "Monster Fluid",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Volvi Carapace",
+    targetReward: 14,
+    captureReward: 21,
+    brokenPartReward: 35,
+    carve: 41,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Volvidon Claw+",
+    targetReward: 21,
+    captureReward: 32,
+    brokenPartReward: 0,
+    carve: 22,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Volvi Rickrack",
+    targetReward: 9,
+    captureReward: 0,
+    brokenPartReward: 65,
+    carve: 11,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Omniplegia Sac",
+    targetReward: 20,
+    captureReward: 22,
+    brokenPartReward: 0,
+    carve: 21,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Stoutbone",
+    targetReward: 11,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Monster Broth",
+    targetReward: 18,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:61,
+    RankId:2,
+    name: "Beast Gem",
+    targetReward: 7,
+    captureReward: 9,
+    brokenPartReward: 0,
+    carve: 5,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Volvidon Cortex",
+    targetReward: 14,
+    captureReward: 21,
+    brokenPartReward: 30,
+    carve: 35,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Volvidon Talon",
+    targetReward: 19,
+    captureReward: 34,
+    brokenPartReward: 0,
+    carve: 18,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Large Volvi Rickrack",
+    targetReward: 23,
+    captureReward: 0,
+    brokenPartReward: 70,
+    carve: 22,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Ultraplegia Sac",
+    targetReward: 16,
+    captureReward: 24,
+    brokenPartReward: 0,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Massive Bone",
+    targetReward: 10,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 17,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Monster Essence",
+    targetReward: 15,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:25
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Large Beast Gem",
+    targetReward: 3,
+    captureReward: 5,
+    brokenPartReward: 0,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Beast Gem",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 5,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:61,
+    RankId:3,
+    name: "Afflicted Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:62,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

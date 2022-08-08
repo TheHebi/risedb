@@ -7984,6 +7984,246 @@ const partData = [
   {
     MonsterId:50,
     RankId:1,
+    name: "Royal Ludroth Scale",
+    targetReward: 11,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 32,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Royal Ludroth Claw",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 23,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Spongy Hide",
+    targetReward: 26,
+    captureReward: 24,
+    brokenPartReward: 60,
+    carve: 30,
+    droppedMaterial:35
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Royal Ludroth Crest",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Royal Ludroth Tail",
+    targetReward: 6,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Aqua Sac",
+    targetReward: 14,
+    captureReward: 14,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:1,
+    name: "Dash Extract",
+    targetReward: 12,
+    captureReward: 30,
+    brokenPartReward: 20,
+    carve: 15,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Royal Ludroth Scale+",
+    targetReward: 12,
+    captureReward: 18,
+    brokenPartReward: 20,
+    carve: 33,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Royal Ludroth Claw+",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 24,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Spongy Hide+",
+    targetReward: 27,
+    captureReward: 27,
+    brokenPartReward: 60,
+    carve: 31,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Royal Ludroth Crest+",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Royal Ludroth Tail",
+    targetReward: 5,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Torrent Sac",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Dash Extract",
+    targetReward: 9,
+    captureReward: 24,
+    brokenPartReward: 20,
+    carve: 12,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:50,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 1,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Royal Ludroth Shard",
+    targetReward: 12,
+    captureReward: 18,
+    brokenPartReward: 20,
+    carve: 33,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Royal Ludroth Talon",
+    targetReward: 22,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 24,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Spongy Piel",
+    targetReward: 27,
+    captureReward: 27,
+    brokenPartReward: 60,
+    carve: 31,
+    droppedMaterial:50
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Chic Crest",
+    targetReward: 10,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Royal Ludroth Lash",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 12,
+    carve: 70,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Flood Sac",
+    targetReward: 14,
+    captureReward: 16,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Dash Extract",
+    targetReward: 9,
+    captureReward: 24,
+    brokenPartReward: 20,
+    carve: 12,
+    droppedMaterial:34
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 1,
+    captureReward: 3,
+    brokenPartReward: 0,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:50,
+    RankId:3,
+    name: "Afflicted Monster Bone",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 20,
+    carve: 20,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:51,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

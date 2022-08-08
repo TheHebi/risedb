@@ -9254,6 +9254,226 @@ const partData = [
   {
     MonsterId:59,
     RankId:1,
+    name: "Tigrex Shell",
+    targetReward: 15,
+    captureReward: 37,
+    brokenPartReward: 28,
+    carve: 20,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:59,
+    RankId:1,
+    name: "Tigrex Scale",
+    targetReward: 33,
+    captureReward: 18,
+    brokenPartReward: 20,
+    carve: 45,
+    droppedMaterial:40
+  },
+  {
+    MonsterId:59,
+    RankId:1,
+    name: "Tigrex Claw",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 32,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:59,
+    RankId:1,
+    name: "Tigrex Fang",
+    targetReward: 17,
+    captureReward: 28,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:1,
+    name: "Tigrex Tail",
+    targetReward: 9,
+    captureReward: 12,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:1,
+    name: "Tigrex Scalp",
+    targetReward: 5,
+    captureReward: 5,
+    brokenPartReward: 12,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Carapace",
+    targetReward: 15,
+    captureReward: 34,
+    brokenPartReward: 17,
+    carve: 18,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigres Scale+",
+    targetReward: 32,
+    captureReward: 16,
+    brokenPartReward: 20,
+    carve: 42,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Claw+",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 30,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Fang+",
+    targetReward: 17,
+    captureReward: 27,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Scalp",
+    targetReward: 8,
+    captureReward: 8,
+    brokenPartReward: 15,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Maw",
+    targetReward: 4,
+    captureReward: 5,
+    brokenPartReward: 8,
+    carve: 3,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Wyvern Gem",
+    targetReward: 3,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 5,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:59,
+    RankId:2,
+    name: "Tigrex Tail",
+    targetReward: 0,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Cortex",
+    targetReward: 15,
+    captureReward: 35,
+    brokenPartReward: 27,
+    carve: 19,
+    droppedMaterial:30
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Shard",
+    targetReward: 32,
+    captureReward: 17,
+    brokenPartReward: 20,
+    carve: 42,
+    droppedMaterial:39
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Hardclaw",
+    targetReward: 21,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 30,
+    droppedMaterial:10
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Hardfang",
+    targetReward: 17,
+    captureReward: 27,
+    brokenPartReward: 60,
+    carve: 0,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Lash",
+    targetReward: 7,
+    captureReward: 10,
+    brokenPartReward: 15,
+    carve: 80,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Large Wyvern Gem",
+    targetReward: 5,
+    captureReward: 0,
+    brokenPartReward: 0,
+    carve: 0,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Mantle",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 2,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:59,
+    RankId:3,
+    name: "Tigrex Maw",
+    targetReward: 0,
+    captureReward: 8,
+    brokenPartReward: 10,
+    carve: 7,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:60,
+    RankId:1,
     name: "",
     targetReward: 0,
     captureReward: 0,

@@ -8303,6 +8303,76 @@ const partData = [
   },
   {
     MonsterId:52,
+    RankId:3,
+    name: "Seregios Slavescale+",
+    targetReward: 21,
+    captureReward: 23,
+    brokenPartReward: 17,
+    carve: 32,
+    droppedMaterial:16
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Airblade+",
+    targetReward: 35,
+    captureReward: 33,
+    brokenPartReward: 10,
+    carve: 24,
+    droppedMaterial:33
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Carver+",
+    targetReward: 18,
+    captureReward: 10,
+    brokenPartReward: 70,
+    carve: 21,
+    droppedMaterial:15
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Scraper+",
+    targetReward: 15,
+    captureReward: 21,
+    brokenPartReward: 70,
+    carve: 10,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Impaler+",
+    targetReward: 8,
+    captureReward: 10,
+    brokenPartReward: 0,
+    carve: 75,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Lens",
+    targetReward: 3,
+    captureReward: 3,
+    brokenPartReward: 3,
+    carve: 3,
+    droppedMaterial:1
+  },
+  {
+    MonsterId:52,
+    RankId:3,
+    name: "Seregios Breacher+",
+    targetReward: 0,
+    captureReward: 0,
+    brokenPartReward: 80,
+    carve: 12,
+    droppedMaterial:0
+  },
+  {
+    MonsterId:53,
     RankId:1,
     name: "",
     targetReward: 0,
